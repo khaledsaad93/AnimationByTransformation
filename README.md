@@ -15,10 +15,10 @@ Transformation View By animation
   
 - Action for toggelButton 
   to play with transform 🤔
-  a. transform UIView to make it as a scale for bottom view 
-  b. transform for. UIButton - rotation 180 Degree
-  c. bottomView Transform by negative to show it in the screen
-  d. in completion for animation You can set Alpha for stack buttons to show it 😁
+  1. transform UIView to make it as a scale for bottom view 
+  2. transform for. UIButton - rotation 180 Degree
+  3. bottomView Transform by negative to show it in the screen
+  4. in completion for animation You can set Alpha for stack buttons to show it 😁
   
   > in this stage you should have question we finished !!? 🤔
     the answer "No" Because now we can open bottom view put we can't close it
