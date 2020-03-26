@@ -2,7 +2,7 @@
 Transformation View By animation
 
 <img src="https://media.giphy.com/media/MFImzBNMa5DWUjSse2/giphy.gif" width="150" height="300" />
-## Animate Bottom View by Transform ⁉️ 
+## Animate Bottom View by Transform
 
 1️⃣ SETUP UI
 - Add BottomView and implement in it UIView (↑) && Button with image
