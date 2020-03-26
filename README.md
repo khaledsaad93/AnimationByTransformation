@@ -17,7 +17,7 @@ Transformation View By animation
   to play with transform 🤔
   a. transform UIView to make it as a scale for bottom view 
   b. transform for. UIButton - rotation 180 Degree
-  c. bottomView Transform by negative to show it in the screen 
+  c. bottomView Transform by negative to show it in the screen
   d. in completion for animation You can set Alpha for stack buttons to show it 😁
   
   > in this stage you should have question we finished !!? 🤔
