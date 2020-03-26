@@ -20,7 +20,7 @@ Transformation View By animation
   3. bottomView Transform by negative to show it in the screen
   4. in completion for animation You can set Alpha for stack buttons to show it 😁
   
-  > in this stage you should have question we finished !!? 🤔
+  in this stage you should have question we finished !!? 🤔
   - the answer "No" Because now we can open bottom view put we can't close it
     
     How can i close it 🤔⁉️
