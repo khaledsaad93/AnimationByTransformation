@@ -30,9 +30,9 @@ Transformation View By animation
     i just set constant constraint for textField above this textfield i set button which hidden after you clicked;
     in this stage you should change width constraint to make it inncrease ;
    Who Animate it !?
-    UIView.animate(withDuration: 0.5, animations: { __
-         self.view.layoutIfNeeded().  // this method to force the view to update its layout immediately. __
-    }) { (done) in __
-         self.searchTF.resignFirstResponder() // to relinquish first responder status __
-    } __
+    UIView.animate(withDuration: 0.5, animations: { _
+         self.view.layoutIfNeeded().  // this method to force the view to update its layout immediately. _
+    }) { (done) in _
+         self.searchTF.resignFirstResponder() // to relinquish first responder status _
+    }
 
