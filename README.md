@@ -29,7 +29,7 @@ Transformation View By animation
 3️⃣ What for TextField Change width by animating that is very easy in this way what i did;
     i just set constant constraint for textField above this textfield i set button which hidden after you clicked;
     in this stage you should change width constraint to make it inncrease ;
-   Who Animate it !?
+   Who Animate it !? <br />
     UIView.animate(withDuration: 0.5, animations: { <br />
          self.view.layoutIfNeeded().  // this method to force the view to update its layout immediately. <br />
     }) { (done) in _
