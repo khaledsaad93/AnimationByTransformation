@@ -22,7 +22,9 @@ Transformation View By animation
   
 ######      in this stage you should have question we finished !!? 🤔
   - the answer "No" Because now we can open bottom view put we can't close it and How can i close it 🤔⁉️
-  1. in transform When the value of this property is anything other than the identity transform, the value in the frame    property is undefined and should be ignored. So to reset everything you should transform views to be identity that will reset  your 
+  a. in transform When the value of this property is anything other than the identity transform, the value in the frame
+  property is undefined and should be ignored. So to reset everything you should transform views to be identity that will
+  reset  your 
   
 
 ## Animate TextField
