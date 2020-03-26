@@ -27,7 +27,7 @@ Transformation View By animation
 - in transform When the value of this property is anything other than the identity transform, the value in the frame    property is undefined and should be ignored. So to reset everything you should transform views to be identity that will reset  your 
   
 
-## What for TextField
+## Animate TextField
 - Change width by animating that is very easy in this way what i did
 - i just set constant constraint for textField above this textfield i set button which hidden after you clicked
 - in this stage you should change width constraint to make it inncrease
