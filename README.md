@@ -26,9 +26,9 @@ Transformation View By animation
 - in transform When the value of this property is anything other than the identity transform, the value in the frame    property is undefined and should be ignored. So to reset everything you should transform views to be identity that will reset  your 
   
 
-3️⃣  - What for TextField Change width by animating that is very easy in this way what i did; <br />
-    - i just set constant constraint for textField above this textfield i set button which hidden after you clicked; <br />
-    - in this stage you should change width constraint to make it inncrease ; <br />
+3️⃣  - What for TextField Change width by animating that is very easy in this way what i did
+- i just set constant constraint for textField above this textfield i set button which hidden after you clicked
+- in this stage you should change width constraint to make it inncrease
 ######    how Animate it !? 
     UIView.animate(withDuration: 0.5, animations: {
          self.view.layoutIfNeeded().  // this method to force the view to update its layout immediately.
